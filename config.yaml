@@ -1,0 +1,11 @@
+DEV:
+  db: dev_db
+  debug: true
+
+QA:
+  db: qa_db
+  debug: false
+
+PROD:
+  db: prod_db
+  debug: false
